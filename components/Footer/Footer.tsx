@@ -1,6 +1,6 @@
-import { featuredProducts, footerLinks, socialLinks } from "@/constant/data";
-import Link from "next/link";
 import React from "react";
+import Link from "next/link";
+import { featuredProducts, footerLinks, socialLinks } from "@/constant/data";
 
 const Footer = () => {
     return (
@@ -69,7 +69,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div className = "border-t text-center border-gray-500 mt-6">
+            <div className = "border-t text-center border-gray-500 mt-8">
                 <p className = "rethinkSans text-lg text-(--text-light) mt-4 cursor-pointer">
                     © {new Date().getFullYear()} Livora. Todos los derechos reservados. Desarrollado por {" "}
                     <a href = "https://github.com/carlozzsilva10" target = "_blank" rel = "noopener noreferrer" className = "font-semibold hover:underline">

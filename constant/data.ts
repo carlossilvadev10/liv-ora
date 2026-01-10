@@ -1,3 +1,9 @@
+import partner1 from "@/public/partner-1.webp";
+import partner2 from "@/public/partner-2.webp";
+import partner3 from "@/public/partner-3.webp";
+import partner4 from "@/public/partner-4.webp";
+import partner5 from "@/public/partner-5.webp";
+import partner6 from "@/public/partner-6.webp";
 import service1 from "@/public/service-1.jpg";
 import service2 from "@/public/service-2.jpg";
 import service3 from "@/public/service-3.jpg";
@@ -33,6 +39,39 @@ export const navLinks: NavLink[] = [
     {
         label: "Contacto",
         href: "#contact",
+    },
+]
+
+export const partners = [
+    {
+        id: 1,
+        image: partner1,
+        alt: "Partner 1"
+    },
+    {
+        id: 2,
+        image: partner2,
+        alt: "Partner 2"
+    },
+    {
+        id: 3,
+        image: partner3,
+        alt: "Partner 3"
+    },
+    {
+        id: 4,
+        image: partner4,
+        alt: "Partner 4"
+    },
+    {
+        id: 5,
+        image: partner5,
+        alt: "Partner 5"
+    },
+    {
+        id: 6,
+        image: partner6,
+        alt: "Partner 6"
     },
 ]
 

@@ -26,10 +26,10 @@ const ScrollToTop = () => {
     }
 
     return (
-        <div className = "fixed bottom-4 right-4">
+        <div className = "fixed bottom-4 right-4 z-[999]">
             {
                 isVisible && (
-                    <button className = "bg-(--primary-dark) text-white rounded-full w-12 h-12 flex items-center justify-center focus:outline-none cursor-pointer" onClick = {scrollToTop}>
+                    <button className = "bg-(--primary-dark) text-white rounded-full w-12 h-12 flex items-center justify-center focus:outline-none cursor-pointer shadow-lg hover:scale-110 transition-all duration-300" onClick={scrollToTop} aria-label = "Volver arriba">
                         <FaArrowUp />
                     </button>
                 )

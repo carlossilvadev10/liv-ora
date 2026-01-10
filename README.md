@@ -1,6 +1,6 @@
 # 🏠 LIVORA · Diseño de Interiores que Transforma ✨
 
-[![LIVORA](./public/image-preview.png)](https://livora.vercel.app/)
+[![LIVORA](./public/image-preview.png)](https://livora-sigma.vercel.app/)
 
 Bienvenido a **Livora**, tu aliado en diseño de interiores donde cada espacio cuenta una historia única. Creemos que **cada ambiente es una oportunidad para inspirar, cada detalle refleja personalidad y cada proyecto transforma vidas**.
 Con un diseño elegante, profesional y completamente responsive, **Livora** te conecta con servicios de diseño de interiores excepcionales que elevarán tu espacio al siguiente nivel. 🎨🏡
