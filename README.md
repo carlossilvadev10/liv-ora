@@ -55,7 +55,7 @@ git clone https://github.com/carlossilvadev10/liv-ora.git
 
 2. **Entra en el directorio del proyecto:**
 ```bash
-cd livora
+cd liv-ora
 ```
 
 3. **Instala las dependencias necesarias:**
