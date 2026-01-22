@@ -50,7 +50,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
 
 1. **Clona el repositorio:**
 ```bash
-git clone https://github.com/carlossilvadev10/livora.git
+git clone https://github.com/carlossilvadev10/liv-ora.git
 ```
 
 2. **Entra en el directorio del proyecto:**
